@@ -45,4 +45,6 @@ const Dashboard = () => {
   );
 };
 
-export default Dashboard;
+export default Dashboard;<Link to="/add-movie">
+<button className="add-movie-button">Add Movie</button>
+</Link>
